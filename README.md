@@ -98,7 +98,7 @@ YOLO is an extremely fast real time multi object detection algorithm. YOLO stand
 
 ## YOLO Custom Object detection (Google Drive Link)
 
-* [YOLO trained model & weights](https://drive.google.com/open?id=1JtVgtMvjs-ywb_EFGlc_tkJFWSkWKQqp) - This weights have been trained to detect perticular obejcts like **Human, Mug, Chair, Tennis-ball**
+* [YOLO trained model & weights](https://drive.google.com/open?id=1JtVgtMvjs-ywb_EFGlc_tkJFWSkWKQqp) - This weights have been trained to detect perticular obejcts like **Human, Mug, Chair, Tennis-ball**  (Download all files from the folder)
 ### Training Syntax ###
 `python flow --model cfg/tiny-yolo-voc-1c.cfg --load bin/yolov2-tiny-voc.weights --train --annotation new_model_data/annotations --dataset new_model_data/images --gpu 0.8 --epoch 5`
 
