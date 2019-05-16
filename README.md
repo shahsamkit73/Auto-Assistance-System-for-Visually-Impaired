@@ -9,7 +9,7 @@ NVIDIA GPU card with compute capability 3.5 or higher. Check your NVIDIA GPU car
 ## _Software Requirements_ ##
 * #### Anaconda Python 3.6/3.7 - [https://www.anaconda.com](https://www.anaconda.com/distribution/)
 * #### Opencv Library version - [https://opencv.org](https://opencv.org/releases/) 
-* #### Tensorflow Library version - [https://www.tensorflow.org](https://www.tensorflow.org/install) [Recommended version 1.10.0] 
+* #### Tensorflow Library version - [https://www.tensorflow.org](https://www.tensorflow.org/install) [Recommended version 1.10.0 for GPU] 
 * #### NVIDIA GPU Driver - [nvidia.com](https://www.nvidia.com/Download/index.aspx?lang=en-us)  CUDA 10.0 requires 410.x or higher.
 * #### CUDA Toolkit - [NVIDIA CUDA](https://developer.nvidia.com/cuda-toolkit-archive) TensorFlow supports CUDA 10.0 (TensorFlow >= 1.13.0) [Recommended Tensorflow version 1.10.0 & CUDA toolkit version 10.1]
 * #### cuDNN SDK - [CUDA Deep Neural Network Library](https://developer.nvidia.com/rdp/cudnn-archive) CUDA 10.0 requires >= 7.4.1 [Recommended cuDNN version 7.5.0 for CUDA 10.1]
