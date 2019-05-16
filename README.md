@@ -43,7 +43,7 @@ Just open the Anaconda Prompt and use this command `(Windows OS)`
 pip install tensorflow-gpu
 pip install tensorflow-gpu==_version_  (Example: 1.10.0, 1.12.0, 1.13.0)
 ~~~~
-Just open the terminal and use this command `(Raspbian OS for Raspberry Pi)` [These commands are only for Raspberry pi module 3, 3B or 3B+]  _(**Reference:** [HOW TO INSTALL TENSORFLOW ON RASPBERRY PI](https://www.raspberrypi.org/magpi/tensorflow-ai-raspberry-pi/))_
+Just open the terminal and use this command `(Raspbian OS for Raspberry Pi)` [These commands are only for Raspberry pi module 3, 3B or 3B+]  _(**Reference:** [HOW TO INSTALL TENSORFLOW ON RASPBERRY PI PLATFORM](https://www.raspberrypi.org/magpi/tensorflow-ai-raspberry-pi/))_
 ~~~~
 sudo apt-get update
 sudo apt install libatlas-base-dev
