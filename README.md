@@ -67,6 +67,10 @@ A Haar Cascade is basically a classifier which is used to detect the object for 
 | ------------- | ------------- | ------------- |
 | ![Human](https://user-images.githubusercontent.com/43854300/57829642-3e602480-77cd-11e9-8215-8a24ef983a18.png)  | ![Mug](https://user-images.githubusercontent.com/43854300/57829353-4ec3cf80-77cc-11e9-9a43-67de0d30ee97.png)  | ![Tennis Ball](https://user-images.githubusercontent.com/43854300/57829268-0a383400-77cc-11e9-95bd-89aa255470b7.png) |
 
+**_Haar-Cascade Video_**
+
+![haarcascade](https://user-images.githubusercontent.com/43854300/57833477-ba5f6a00-77d7-11e9-864c-b0be96651d49.gif)
+
 **_References_**
 
 [1] [Haar Cascade Object Detection](https://pythonprogramming.net/haar-cascade-face-eye-detection-python-opencv-tutorial/)
@@ -87,6 +91,10 @@ YOLO is an extremely fast real time multi object detection algorithm. YOLO stand
 | Person  | Mug | Tennis-Ball |
 | ------------- | ------------- | ------------- |
 | ![Human](https://user-images.githubusercontent.com/43854300/57830252-28536380-77cf-11e9-8cd4-4d8ae430e882.png) | ![Mug](https://user-images.githubusercontent.com/43854300/57830681-7c127c80-77d0-11e9-8f5f-b18d61b54ac9.png) | ![Tennis Ball](https://user-images.githubusercontent.com/43854300/57830571-23db7a80-77d0-11e9-9bf5-9dc09c7d3357.png) |
+
+**_YOLO Video_**
+
+![YOLO](https://user-images.githubusercontent.com/43854300/57833630-0ad6c780-77d8-11e9-9129-7285ec3421f3.gif)
 
 **_References_**
 
