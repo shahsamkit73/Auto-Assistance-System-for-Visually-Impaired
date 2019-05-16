@@ -101,3 +101,12 @@ YOLO is an extremely fast real time multi object detection algorithm. YOLO stand
 [5] [Pascal VOC 2007 + 2012 dataset (Images + Annotations)](https://pjreddie.com/projects/pascal-voc-dataset-mirror/)
 
 [6] [MS COCO dataset 2017](http://cocodataset.org/#download)
+
+## **Comparison between Algorithms**
+
+| **Parameters**  | **Haar-Cascade** | **YOLO** |
+| ------------- | ------------- | ------------- |
+| **Accuracy** | Poor | Good |
+| **Performance** | Poor | Good |
+| **Computational Time** | Good | Poor |
+| **Computational Complexity** | Good | Poor |
