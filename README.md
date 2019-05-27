@@ -16,6 +16,20 @@ NVIDIA GPU card with compute capability 3.5 or higher. Check your NVIDIA GPU car
 * #### Visual Studio 2019 - [MS Visual 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16) [Recommended visual studio version - 2019 community]
 * #### Raspbian OS - [Raspbian Stretch with desktop and recommended software](https://www.raspberrypi.org/downloads/raspbian/)
 
+## **How to install Raspbian OS in SD card _`(for Raspberry Pi)`_**
+1. Download Rasbian OS [Raspbian Stretch with desktop and recommended software](https://www.raspberrypi.org/downloads/raspbian/)
+2. Insert your microSD card **_(32/64/128 GB is preferred)_** into your card reader and find out its drive letter in Windows Explorer (for example G:)
+3. Download [Win32 Disk Imager](win32diskimager-1.0.0-install.exe), unzip the downloaded file of Raspbian OS
+4. Select the Raspbian image file you downloaded
+5. Select the drive of your SD card in the ‘Device’ dropdown. Make sure you chose the correct one. Otherwise, you risk damaging the data on your hard drive
+6. Select ‘Write’ and wait for the process to finish 
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/43854300/58418217-cdf6b480-80a4-11e9-92b4-744d6a7d908b.jpg">
+</p>
+
+7. Now insert the SD card into Raspberry Pi slot for use
+
 ## **Installation Process Sequence**
 1. Install Visual Studio 2019 community **_(Packages: .NET, Data Science, python development, c++, Node.js)_**
 2. Install CUDA **(Computer Unified Device Architeure)** Toolkit **_(version: 10.1)_**
