@@ -140,6 +140,9 @@ YOLO is an extremely fast real time multi object detection algorithm. YOLO stand
 
 [6] [MS COCO dataset 2017](http://cocodataset.org/#download)
 
+## **Research Paper**
+* #### [CNN based Auto-Assistance System as a Boon for Directing Visually Impaired Person](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8862699&isnumber=8862508)
+
 ## **Comparison between Algorithms**
 
 | **Parameters**  | **Haar-Cascade** | **YOLO** |
