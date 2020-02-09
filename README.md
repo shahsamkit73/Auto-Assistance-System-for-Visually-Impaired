@@ -75,7 +75,7 @@ pip install tensorflow==_version_  (for Python 2)
 pip3 install tensorflow / pip3 install tensorfow==_version_  (for Python 3)
 ~~~~
 
-## **How to install Visuall studio, CUDA Toolkit, cuDNN library and Anaconda**
+## **How to install Visual studio, CUDA Toolkit, cuDNN library and Anaconda**
 [1] [TensorFlow GPU Full & Latest Installation Tutorial + (DLL Error Solution & Installation on Anaconda)](https://youtu.be/7QLvYL22KkM)
 
 [2] [How to install Tensorflow-GPU on Windows 10](https://youtu.be/HExRhnO5Mqs)
