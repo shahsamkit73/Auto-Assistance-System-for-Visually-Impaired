@@ -83,7 +83,7 @@ pip3 install tensorflow / pip3 install tensorfow==_version_  (for Python 3)
 [3] [How to install Tensorflow GPU | 2019 | LATEST | Windows | From Scratch Installation](https://youtu.be/D1Cx2pil4jI)
 
 ## **HAAR-CASCADE Algorithm for object detection**
-A Haar Cascade is basically a classifier which is used to detect the object for which it has been trained for. The Haar Cascade is trained by superimposing the positive image over a set of negative images. The training is generally done on a server and on various stages. Better results are obtained by using high quality images and increasing the amount of stages for which the classifier is trained. One can also used predefined Haar Cascades which are available on [Haar-Cascade Pretrained Files](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+A Haar Cascade is basically a classifier which is used to detect the object for which it has been trained for. The Haar Cascade is trained by superimposing the positive image over a set of negative images. The training is generally done on a server and on various stages. Better results are obtained by using high quality images and increasing the amount of stages for which the classifier is trained. One can also use predefined Haar Cascades which are available on [Haar-Cascade Pretrained Files](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 **_Object Detection_**
 
